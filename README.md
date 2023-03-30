@@ -13,7 +13,7 @@
 <h2>Future Improvements</h2>
 <p>Will be able to add account types such as checking and saving accounts and somehow could be able to tranfer funds to other users.</p>
 <h2>How to run</h2>
-<p>You can clone this application to your systerm and type npm start to navigate to localhost:3000. Also, it will be deploy to firebase and a link will be listed.
+<p>You can clone this application to your systerm and type npm start to navigate to localhost:3000. Also, it will be deploy to firebase and a link will be listed. https://badbank-fullstack-capstone.web.app/
 </p>
 <h2>Credits</h2>
 <p>MIT xPRO</p>
